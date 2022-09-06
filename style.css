@@ -1,0 +1,12 @@
+.col-1{
+    border: 1rem salmon solid;
+}
+.col-4{
+    border: 1rem rgb(81, 203, 62) solid;
+}
+.col-6{
+    border: 1rem rgb(230, 233, 52) solid;
+}
+.uno{
+    padding-top: 1rem;
+}
